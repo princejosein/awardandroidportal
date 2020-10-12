@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwardAndroidPortal", "AwardAndroidPortal\AwardAndroidPortal.csproj", "{4DCBBD02-1775-420E-B70B-6055FF4ED097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DCBBD02-1775-420E-B70B-6055FF4ED097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCBBD02-1775-420E-B70B-6055FF4ED097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCBBD02-1775-420E-B70B-6055FF4ED097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCBBD02-1775-420E-B70B-6055FF4ED097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD8FB167-0005-4284-8E12-D75B338D8056}
+	EndGlobalSection
+EndGlobal
